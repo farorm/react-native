@@ -86,6 +86,7 @@ You will need Node.js, the React Native command line interface, and Android Stud
 We recommend installing Node and Watchman using [Homebrew](http://brew.sh/). Run the following commands in a Terminal after installing Homebrew:
 
 ```
+brew update
 brew install node
 brew install watchman
 ```
